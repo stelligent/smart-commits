@@ -1,3 +1,5 @@
 # Smart Commits
 
-Test smart commits
+Test smart commits.
+
+[X] Setup pivotal tracker
