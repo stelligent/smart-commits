@@ -2,6 +2,6 @@
 
 Test smart commits.
 
-[X] Setup pivotal tracker 
-[X] Prep Demo 
-[ ] Deliver Demo
+[X] Setup pivotal tracker
+[X] Prep Demo
+[X] Deliver Demo
